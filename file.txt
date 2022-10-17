@@ -1,1 +1,2 @@
 This is repo created for git practical for Devops
+This is content wriiten after first commit
